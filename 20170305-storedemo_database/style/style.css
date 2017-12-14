@@ -1,0 +1,57 @@
+#banner {
+    background-color: #337ab7;
+    border-bottom: rgba(0,0,0,0.2);
+}
+
+
+#banner {
+    color: #fff;
+}
+
+.collapse.in {
+    display: block;
+}
+
+.message-container {
+    padding: 40px 0;
+    padding-top: 40px;
+    padding-right: 0px;
+    padding-bottom: 40px;
+    padding-left: 0px;
+}
+
+.message-container {
+    display: table;
+    width: auto;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+
+.tagline {
+    font-size: 24px;
+}
+
+.tagline {
+    font-weight: 200;
+    font-size: 16px;
+    padding-right: 30px;
+}
+
+.tagline {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+th {
+    text-align: left;
+    background-color: #337ab7;
+    color: #fff;
+}
+
+i.fa-close {
+    color: crimson;
+}
+
+i.fa-check-square {
+    color: #4CAF50;
+}
